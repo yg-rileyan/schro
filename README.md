@@ -1,1 +1,1 @@
-# Time Dependant Schrodinger Equatio via Grid Method
+# Time Dependant Schrodinger Equation via Grid Method
